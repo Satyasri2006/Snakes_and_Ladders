@@ -1,8 +1,8 @@
 **SNAKES AND LADDERS (C++ & OOP)**
 
-Who doesn't love Snakes and Ladders? I do. So, I tried implementing one of my favourite board games as a console-based game in C++ using Object-Oriented Programming principles.
+    Who doesn't love Snakes and Ladders? I do. So, I tried implementing one of my favourite board games as a console-based game in C++ using Object-Oriented Programming principles.
 
-This project is simple, readable, and beginner-friendly, while still demonstrating clean OOP design. It's basically a basic version of Snakes and Ladders.
+    This project is simple, readable, and beginner-friendly, while still demonstrating clean OOP design. It's basically a basic version of Snakes and Ladders.
 
 
 **FEATURES**
