@@ -26,7 +26,7 @@
 
     ~ Composition
 
-    ~ Following SOLID
+    ~ SOLID Principles
 
 
 **STRUCTURE**
