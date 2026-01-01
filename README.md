@@ -76,7 +76,7 @@ GAME:
 
 3. Landing on
 
-   ! Snake: Player moves down
+   * Snake: Player moves down
 
    * Ladder: Player moves up
 
