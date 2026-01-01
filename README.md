@@ -7,81 +7,81 @@ This project is simple, readable, and beginner-friendly, while still demonstrati
 
 **FEATURES**
 
-~ 2 Players
+    ~ 2 Players
 
-~ Dice Rolling Simulation
+    ~ Dice Rolling Simulation
 
-~ Snakes and Ladders at every step
+    ~ Snakes and Ladders at every step
 
-~ Replay game option
+    ~ Replay game option
 
-~ Positions visible after each role
+    ~ Positions visible after each role
 
 
 **OOP CONCEPTS USED**
 
-~ Encapsulation
+    ~ Encapsulation
 
-~ Abstraction
+    ~ Abstraction
 
-~ Composition
+    ~ Composition
 
-~ Following SOLID
+    ~ Following SOLID
 
 
 **STRUCTURE**
 
 DICE:
 
-  roll()
+      roll()
 
 PLAYER:
 
-  position
+      position
   
-  getPosition()
+      getPosition()
   
-  setPosition()
+      setPosition()
   
-  reset()
+      reset()
 
 BOARD:
 
-  snakes
+      snakes
   
-  ladders
+      ladders
   
-  applySnakeorLadder()
+      applySnakeorLadder()
 
 GAME:
 
-  player1
+      player1
   
-  player2
+      player2
   
-  dice
+      dice
   
-  board
+      board
   
-  play()
+      play()
   
-  showPositions()
+      showPositions()
 
 
 **WORKING**
 
-1. Player1 and Player2 take turns to roll the dice.
+    1. Player1 and Player2 take turns to roll the dice.
 
-2. Dice value moves the player forward.
+    2. Dice value moves the player forward.
 
-3. Landing on
+    3. Landing on
 
-   * Snake: Player moves down
+       * Snake: Player moves down
 
-   * Ladder: Player moves up
+       * Ladder: Player moves up
 
-4. Player must land exactly on 100 to win.
+    4. Player must land exactly on 100 to win.
 
-5. Positions of both players are shown after each and every turn.
+    5. Positions of both players are shown after each and every turn.
 
-6. Game can be replayed after completion.
+    6. Game can be replayed after completion.
